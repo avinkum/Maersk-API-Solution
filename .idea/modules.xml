@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Maersk-API-Solution.iml" filepath="$PROJECT_DIR$/.idea/Maersk-API-Solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-automation-rest-assured-basic/api-automation-basic.iml" filepath="$PROJECT_DIR$/api-automation-rest-assured-basic/api-automation-basic.iml" />
+    </modules>
+  </component>
+</project>
